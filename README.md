@@ -1,5 +1,5 @@
 # MiniProjects
-Mini Projects on Javascript
+Mini Projects in Javascript
 
 
 1. Star Rating Application - Must update the Rating count on click of Stars. [Open index.html to run application]
