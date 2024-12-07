@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.timer {
+    font-size: 55px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: aqua;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    column-gap: 0.5rem;
+}
+
+.timer input {
+    width: 3rem;
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    background-color: transparent;
+}
+
+p {
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+input {
+    font-size: 2rem;
+}
